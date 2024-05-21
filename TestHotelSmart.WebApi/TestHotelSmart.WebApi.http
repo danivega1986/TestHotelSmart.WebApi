@@ -1,0 +1,6 @@
+@TestHotelSmart.WebApi_HostAddress = http://localhost:5243
+
+GET {{TestHotelSmart.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
